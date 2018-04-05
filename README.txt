@@ -1,3 +1,3 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/abigailmathews/pen/jzvEgB.
+This is a series of slidedecks for the New Lebanon Public Library, along with organizational material for the series.
 
- 
+Visit [https://abigailmathews.github.io/techtalks/](https://abigailmathews.github.io/techtalks/) to view the resources.
